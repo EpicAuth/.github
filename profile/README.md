@@ -1,4 +1,4 @@
-<img src="https://cdn.EpicAuth.site/v2/assets/media/logos/logo-1-dark.png" alt="" width="180" height="100">
+<img src="https://cdn.EpicAuth.cc/v2/assets/media/logos/logo-1-dark.png" alt="" width="180" height="100">
 
 KeyAuth is an open-source authentication system with client SDKs for [C#](https://github.com/keyauth-site/KeyAuth-CSHARP-Example), [C++](https://github.com/keyauth-site/KeyAuth-CPP-Example), [Python](https://github.com/keyauth-site/KeyAuth-Python-Example), [Java](https://github.com/keyauth-site/KeyAuth-JAVA-api), [JavaScript](https://github.com/keyauth-site/KeyAuth-JS-Example), [VB.NET](https://github.com/keyauth-site/KeyAuth-VB-Example), [PHP](https://github.com/keyauth-site/KeyAuth-PHP-Example), [Rust](https://github.com/keyauth-site/KeyAuth-Rust-Example), [Go](https://github.com/keyauth-site/KeyAuth-Go-Example), [Lua](https://github.com/keyauth-site/KeyAuth-Lua-Examples), [Ruby](https://github.com/keyauth-site/KeyAuth-Ruby-Example), and [Perl](https://github.com/keyauth-site/KeyAuth-Perl-Example).
 
