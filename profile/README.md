@@ -1,13 +1,14 @@
-<img src="https://cdn.keyAuth.site/v2/assets/media/logos/logo-1-dark.png?v=1" alt="" width="180" height="100">
+<img src="https://cdn.EpicAuth.cc/v2/assets/media/logos/logo-1-dark.png?v=1" alt="" width="180" height="100">
 
-KeyAuth is an open-source authentication system with client SDKs for [C#](https://github.com/keyauth-site/KeyAuth-CSHARP-Example), [C++](https://github.com/keyauth-site/KeyAuth-CPP-Example), [Python](https://github.com/keyauth-site/KeyAuth-Python-Example), [Java](https://github.com/keyauth-site/KeyAuth-JAVA-api), [JavaScript](https://github.com/keyauth-site/KeyAuth-JS-Example), [VB.NET](https://github.com/keyauth-site/KeyAuth-VB-Example), [PHP](https://github.com/keyauth-site/KeyAuth-PHP-Example), [Rust](https://github.com/keyauth-site/KeyAuth-Rust-Example), [Go](https://github.com/keyauth-site/KeyAuth-Go-Example), [Lua](https://github.com/keyauth-site/KeyAuth-Lua-Examples), [Ruby](https://github.com/keyauth-site/KeyAuth-Ruby-Example), and [Perl](https://github.com/keyauth-site/KeyAuth-Perl-Example).
+KeyAuth is an open-source authentication system with client SDKs for [C#](https://github.com/EpicAuth/EpicAuth-CSHARP-Example), [C++](https://github.com/EpicAuth/EpicAuth-CPP-Example), [Python](https://github.com/EpicAuth/EpicAuth-Python-Example), [Java](https://github.com/EpicAuth/EpicAuth-JAVA-api), [JavaScript](https://github.com/EpicAuth/EpicAuth-JS-Example), [VB.NET](https://github.com/EpicAuth/EpicAuth-VB-Example), [PHP](https://github.com/EpicAuth/EpicAuth-PHP-Example), [Rust](https://github.com/EpicAuth/EpicAuth-Rust-Example), [Go](https://github.com/EpicAuth/EpicAuth-Go-Example), [Lua](https://github.com/EpicAuth/EpicAuth-Lua-Examples), [Ruby](https://github.com/EpicAuth/EpicAuth-Ruby-Example), and [Perl](https://github.com/EpicAuth/EpicAuth-Perl-Example).
 
+https://EpicAuth.cc
 https://keyauth.site
 
-Join telegram for updates and chat https://t.me/keyauth
+Join telegram for updates and chat https://t.me/EpicAuth
 
-Create support ticket here https://keyauth.site/app/?page=support
+Create support ticket here https://EpicAuth/app/?page=support
 
-View video tutorials at https://youtube.com/keyauth
+View video tutorials at https://youtube.com/@EpicAuth
 
-Looking for a Discord bot made by the KeyAuth & RestoreCord founder that you can use to backup your Discord members, server settings, and messages? Go to https://vaultcord.com
+
