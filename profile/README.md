@@ -7,7 +7,7 @@ KeyAuth is an open-source authentication system with client SDKs for [C#](https:
 
 Join telegram for updates and chat https://t.me/EpicAuth
 
-Create support ticket here https://EpicAuth/app/?page=support
+Create support ticket here https://EpicAuth.cc/app/?page=support
 
 View video tutorials at https://youtube.com/@EpicAuth
 
