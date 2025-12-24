@@ -9,6 +9,6 @@ Join telegram for updates and chat https://t.me/EpicAuth
 
 Create support ticket here https://EpicAuth.cc/app/?page=support
 
-View video tutorials at https://youtube.com/@EpicAuth
+View video tutorials at https://youtube.com/@Epic-Auth
 
 
