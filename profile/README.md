@@ -12,7 +12,7 @@
 | Language   | Example Repo |
 |------------|--------------|
 | C#         | [EpicAuth-CSHARP-Example](https://github.com/EpicAuth/EpicAuth-CSHARP-Example-1) |
-| C++        | [EpicAuth-CPP-Example](https://github.com/EpicAuth/EpicAuth-CPP-Example-1) |
+| C++        | [EpicAuth-Core-CPP-Example](https://github.com/EpicAuth/EpicAuth-Core-CPP-Example) |
 | Python     | [EpicAuth-Python-Example](https://github.com/EpicAuth/EpicAuth-Python-Example) |
 | Java       | [EpicAuth-JAVA-API](https://github.com/EpicAuth/EpicAuth-JAVA-api) |
 | VB.NET     | [EpicAuth-VB-Example](https://github.com/EpicAuth/EpicAuth-VB-Example) |
